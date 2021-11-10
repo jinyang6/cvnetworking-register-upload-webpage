@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cvnetworking-register-upload-webpage/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cvnetworking-register-upload-webpage/static/js/main.a5b75be1.chunk.js",
+    "main.js.map": "/cvnetworking-register-upload-webpage/static/js/main.a5b75be1.chunk.js.map",
+    "runtime-main.js": "/cvnetworking-register-upload-webpage/static/js/runtime-main.ae7fa537.js",
+    "runtime-main.js.map": "/cvnetworking-register-upload-webpage/static/js/runtime-main.ae7fa537.js.map",
+    "static/js/2.a1ae02f4.chunk.js": "/cvnetworking-register-upload-webpage/static/js/2.a1ae02f4.chunk.js",
+    "static/js/2.a1ae02f4.chunk.js.map": "/cvnetworking-register-upload-webpage/static/js/2.a1ae02f4.chunk.js.map",
+    "static/js/3.d1a5cc9d.chunk.js": "/cvnetworking-register-upload-webpage/static/js/3.d1a5cc9d.chunk.js",
+    "static/js/3.d1a5cc9d.chunk.js.map": "/cvnetworking-register-upload-webpage/static/js/3.d1a5cc9d.chunk.js.map",
+    "index.html": "/cvnetworking-register-upload-webpage/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/cvnetworking-register-upload-webpage/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a1ae02f4.chunk.js.LICENSE.txt": "/cvnetworking-register-upload-webpage/static/js/2.a1ae02f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7fa537.js",
+    "static/js/2.a1ae02f4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a5b75be1.chunk.js"
+  ]
+}
